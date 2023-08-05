@@ -1,1 +1,1 @@
-# Gesture_Driven_Sound_Intensity
+This innovative feature allows you to effortlessly control your sound bar using intuitive hand gestures. Utilizing an advanced hand detection model, the system recognizes your gestures, enabling you to adjust the volume with simple and natural hand movements. Powered by the pycaw library integration
